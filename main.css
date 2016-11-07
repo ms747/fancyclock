@@ -1,0 +1,9 @@
+.wrapper {
+    text-align: right;
+}
+
+
+#canvas {
+    position: absolute;
+    top: 50%;
+}
